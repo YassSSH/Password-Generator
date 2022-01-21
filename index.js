@@ -30,5 +30,6 @@ function generermdp(){
 
 
     
+    
 };
 generer.addEventListener('click', generermdp )
